@@ -48,5 +48,4 @@ An intelligent voice-controlled virtual assistant built with Python that helps u
 ## 🤝 Contributing
 Feel free to fork this repository and contribute by submitting a pull request.
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+
